@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "база",
+      "path": "база.md"
+    },
+    {
       "basename": "00 Доступы",
       "path": "Projects/Job/00 Доступы.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "План развития",
       "path": "План развития.canvas"
-    },
-    {
-      "basename": "база",
-      "path": "база.md"
     },
     {
       "basename": "00 Homepage",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Job/00 Доступы.md",
+                "file": "база.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Job/00 Доступы.md",
+                "file": "база.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Job/00 Доступы.md",
+                "file": "база.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Job/00 Доступы.md"
+                "file": "база.md"
               }
             }
           },
@@ -180,28 +179,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Пространства": false,
-      "obsidian-kanban:Создать новую доску": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "audio-recorder:Начать/остановить запись": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
-      "meld-encrypt:Encrypt/Decrypt": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "daily-notes:Сегодняшняя заметка": false,
       "command-palette:Открыть палитру команд": false,
       "templates:Вставить шаблон": false,
       "switcher:Меню быстрого перехода": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
       "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "soundscapes:Soundscapes: My Music": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "9036a20d14e4d6da",
   "lastOpenFiles": [
+    "Projects/Job/00 Доступы.md",
     "Projects/Job/Договоры.md",
     "~$иложение.doc",
     "~$оговор.doc",
@@ -230,7 +230,6 @@
     "Projects/Job/Финансы/Обещанный платеж.md",
     "Projects/Job/Финансы/Отсрочка платежа.md",
     "Excalidraw/Drawing 2024-09-29 21.15.36.excalidraw.md",
-    "Excalidraw/Безымянная Kanban-доска.md",
     "План развития.canvas",
     "00 Homepage.canvas",
     "periodic/weekly",
