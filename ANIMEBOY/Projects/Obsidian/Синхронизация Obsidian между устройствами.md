@@ -1,0 +1,6 @@
+- Sync your Obsidian Vault on iOS with GitHub, Working Copy, and Apple Shortcuts - [https://meganesulli.com/blog/sync-obs...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm5rQTNVUEV6N0FQemFnRTROaXpaSWwxcGgwZ3xBQ3Jtc0tsSHYwckRTMHNrZWd3VG5Ka1R6OGticnpwMkJuZ1lkWTZXekRVS3FyUVE3WjJGejF5elZYMDhQNkRpRG5vQzJvQzByS3ZjWlVaTlpSaHk0b1VlMlFPd1lpVjhubXpJU3MwcG14RUpmd2Z3TlRxOWNaRQ&q=https%3A%2F%2Fmeganesulli.com%2Fblog%2Fsync-obsidian-vault-iphone-ipad%2F&v=gt5zL930FVo) (Синхронизация Обсидиана на iPhone. Я использовала приложение PolyGit вместо Working Copy (недоступен в России)) 
+
+
+- Приложение терминала на iPhone - *iSH Shell* (Может кому понадобится) 
+
+- The Easiest Way to Connect Your Obsidian Vault with Github - [https://linked-blog-starter.vercel.ap...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjExdVF0M0xEVWozZnVWWkVQNk9NU0loSmxwQXxBQ3Jtc0trOXNVWTh5eUwzLWRpeklxNFBkZzhVRTh1V01BVEctSl8tSWNxcXp2YWpqbklRQWhnWE5IMG0xTHc0Nm1ESmtIWFdwQ0RXeUxvZWhVbDBSclN5OGZjRms3eVh2VWhuT3VfU3ZmWFBMSW5GWllRdng0Yw&q=https%3A%2F%2Flinked-blog-starter.vercel.app%2Fconnect-obsidian-vault-with-github&v=gt5zL930FVo) (Как связать Obsidian с Гитхабом) 

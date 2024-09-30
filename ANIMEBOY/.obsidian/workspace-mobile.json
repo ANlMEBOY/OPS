@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b9658dd36e6adfa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a38b16513b24f1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d93e80d2b314d8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Канбан/00 Notes/Контент.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8789350237834516,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "22aac71a1a461457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Канбан/00 Notes/Контент.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "664baa59d6e391c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "82d0fc43e08d4cad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6a75be47753982c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Контен",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3aedb59e334f46c0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b256abc5a4cce292",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "0942078c36cfe5f7",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "2a396e7e36dbba54",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a1273f8a0cec9dd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Канбан/00 Notes/Контент.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "552273f52fd99d5a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Канбан/00 Notes/Контент.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5305f60675b7e7fe",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Канбан/00 Notes/Контент.md"
+          }
+        }
+      },
+      {
+        "id": "3735deee3cb69859",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "22aac71a1a461457",
+  "lastOpenFiles": [
+    "New/Projects/00 Точки роста.md",
+    "Рецепты/Гуляш.md",
+    "Канбан/00 Notes/00 План.md",
+    "Покупка ноутбука.md",
+    "Рецепты/Гуляш.sync-conflict-20240921-014901-KEO6DSY.md",
+    "Cash/Договор+приложение.pdf",
+    "софт.md",
+    "Cash/Pasted image 20240920162609.png",
+    "Projects/Тренажерный зал.md",
+    "Projects/Английский язык.md",
+    "Projects/Программирование.md",
+    "Projects/Тайский бокс.md",
+    "Projects/Obsidian.md",
+    "Projects/00 Точки роста.md",
+    "Projects/Немецкий язык.md",
+    "Projects",
+    "Договор+приложение.pdf",
+    "Pasted image 20240920162609.png",
+    "Канбан/00 Notes/00 План.sync-conflict-20240920-174441-KEO6DSY.md",
+    "Договор.doc",
+    "Приложение.doc",
+    "Job/Договоры.md",
+    "Анекдоты.md",
+    "Канбан/00 Notes/Волосы.md",
+    "Job/LIR.md",
+    "Список покупок.md",
+    "Cash/ZeNPMHkqMgrJpJOWAxW9ZGMhuy6UDDgfDy6W-9OEyYeeQZmPD-WvkcoKv83nkP3BHqjSuFP6MIRk5ZNdeu_jQ4XSOnQN7oYrrGHHx5ZVPVQzAG76pR39v0r_Mt4WcPk3HhEcnOlCqNb8_RlqYKcPEO6tcp2Xa7Q1IoPyWjz_J-T0w4yDiemirBsFwFKwNywFoeLOvWUtjk-7vNcsJPGOdoj.webp",
+    "Cash/Pasted image 20240919100129.png",
+    "Cash/women-model-cosplay-shirogane-sama-long-hair-hd-wallpaper-preview.jpg",
+    "Cash",
+    "Pasted image 20240919100129.png",
+    "План.md",
+    "Канбан/00 Notes/00 Входящие.md",
+    "Job/IPSERVER.SU - выделенные серверы, виртуальные серверы, vps, впс, хостинг серверов.md",
+    "Job/Анекдоты.md",
+    "План.sync-conflict-20240917-140321-CE67ZRD.md",
+    "Без названия 1.canvas",
+    "РМТ/EVE/Доступы.md",
+    "Без названия.canvas",
+    "Job/Финансы/Обещанный платеж.md",
+    "РМТ/EVE",
+    "РМТ/Albion",
+    "РМТ",
+    "Канбан/03 Projects",
+    "ii-pokazal-pravilnuyu-ekranizaciyu-cherepashek-nindzya-s-krasivoy-eypril-onil-104460.webp"
+  ]
+}

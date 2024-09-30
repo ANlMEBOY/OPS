@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "db1dcc08ffe04a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e5fa4303318f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9036a20d14e4d6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Job/00 Доступы.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14167ecc16abc2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d59347efb5c5d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda8245374cdae7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a3a4d03e4222745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "дост",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37dc9695a7963839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad7b29dca4c979a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "7e6db1b1bad128ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c68290b92448e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb823fd7df931881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Job/00 Доступы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b7437a2ed6922b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Job/00 Доступы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cac8349dfd1cce89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3f27742c275e4a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Job/00 Доступы.md"
+              }
+            }
+          },
+          {
+            "id": "b30b81810179d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b1d6fe353e1528",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f950cd1bf5b2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad0f4d05b6f592a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Пространства": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false,
+      "switcher:Меню быстрого перехода": false,
+      "homepage:Open homepage": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9036a20d14e4d6da",
+  "lastOpenFiles": [
+    "Projects/Job/Договоры.md",
+    "~$иложение.doc",
+    "~$оговор.doc",
+    "Projects/Job/Отключение услуги.md",
+    "Projects/Job/Поставить сервер в отмену, отменить сервер.md",
+    "Projects/Obsidian/Синхронизация Obsidian между устройствами.md",
+    "Projects/Obsidian/DataViev/Data View.md",
+    "Projects/Obsidian/DataViev",
+    "Домашняя страница/Вещи к сбору.md",
+    "Projects/Inbox/Канбан/Вещи к сбору.md",
+    "Постановка цели.md",
+    "Projects/Inbox/Канбан/01 Smart/Утренняя речь.md",
+    "Повысь заработок 1.md",
+    "Projects/Inbox/Канбан/02 Projects/Внедрение новых привычек.md",
+    "Контент.md",
+    "Projects/Inbox/Канбан/00 Notes/Nintendo Switch.md",
+    "Как развить мотивацию.md",
+    "Projects/Inbox/Канбан/00 Notes/Контент.md",
+    "Волосы.md",
+    "Projects/Inbox/Канбан/00 Notes/Как развить мотивацию.md",
+    "Projects/Inbox/Канбан/00 Notes/Волосы.md",
+    "Домашняя страница/00 to-do.md",
+    "Projects/Inbox/Канбан/00 Notes/00 to-do.md",
+    "Projects/Inbox/Канбан/00 Notes/00 Входящие.md",
+    "Домашняя страница/00 Входящие.md",
+    "Projects/Job/Финансы/Обещанный платеж.md",
+    "Projects/Job/Финансы/Отсрочка платежа.md",
+    "Excalidraw/Drawing 2024-09-29 21.15.36.excalidraw.md",
+    "Excalidraw/Безымянная Kanban-доска.md",
+    "План развития.canvas",
+    "00 Homepage.canvas",
+    "periodic/weekly",
+    "periodic/templates",
+    "periodic/daily",
+    "periodic",
+    "Без названия 1",
+    "Приложение.doc",
+    "Договор.doc",
+    "Домашняя страница/00 Homepage.canvas",
+    "Cash/Исп/Pasted image 20240929170849.png",
+    "Cash/Исп/Pasted image 20240929173403.png",
+    "Cash/Исп/Pasted image 20240929172300.png",
+    "Cash/Исп/Pasted image 20240923132500.png",
+    "Cash/Исп/Pasted image 20240923132549.png",
+    "Cash/Исп/Pasted image 20240923132529.png",
+    "Cash/Исп/Pasted image 20240929170754.png",
+    "Cash/Исп/Pasted image 20240920162609.png",
+    "Cash/Исп/Pasted image 20240919100129.png",
+    "Cash/Pasted image 20240929215331.png",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "Без названия 3.canvas",
+    "Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}

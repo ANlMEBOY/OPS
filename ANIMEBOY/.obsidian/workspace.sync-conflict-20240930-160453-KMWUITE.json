@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "db1dcc08ffe04a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6faa62b83489df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db1a9999d2ca9876",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "План развития.canvas",
+                "viewState": {
+                  "x": -715.7813802817524,
+                  "y": -262.53657105530476,
+                  "zoom": -0.30006348444465675
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14167ecc16abc2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d59347efb5c5d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda8245374cdae7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a3a4d03e4222745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "стать",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37dc9695a7963839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad7b29dca4c979a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "7e6db1b1bad128ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c68290b92448e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb823fd7df931881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "План развития.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b7437a2ed6922b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "План развития.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cac8349dfd1cce89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f27742c275e4a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "План развития.canvas"
+              }
+            }
+          },
+          {
+            "id": "b30b81810179d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b1d6fe353e1528",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f950cd1bf5b2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "workspaces:Пространства": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "graph:Граф": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false,
+      "switcher:Меню быстрого перехода": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "db1a9999d2ca9876",
+  "lastOpenFiles": [
+    "Путь к цели/Аусбилдинг.md",
+    "План развития.canvas",
+    "Путь к цели/Английский А1.md",
+    "Путь к цели/Стэки.md",
+    "Путь к цели/Поздние переселенцы.md",
+    "Путь к цели",
+    "Без названия.md",
+    "база.md",
+    "Projects/Inbox/Английский язык.md",
+    "Projects/Inbox/Канбан/01 Smart/Постановка цели.md",
+    "Projects/Job/Смена геолокации IP адреса на VPS.md",
+    "Nintendo Switch.md",
+    "Домашняя страница/00 Homepage.canvas",
+    "Домашняя страница/00 Homepage.md",
+    "Домашняя страница/00 Входящие.md",
+    "Повысь заработок.md",
+    "Покупка ноутбука.md",
+    "Самоанализ.md",
+    "софт.md",
+    "Домашняя страница",
+    "Projects/Inbox/Тренажерный зал.md",
+    "Projects/Inbox/Тайский бокс.md",
+    "Projects/Inbox/Программирование.md",
+    "Projects/Inbox/Немецкий язык.md",
+    "Контент.md",
+    "Cash/Pasted image 20240929215331.png",
+    "Безымянная Kanban-доска.md",
+    "Projects/Inbox/Канбан/01 Smart/Утренняя речь.md",
+    "Домашняя страница/Вещи к сбору.md",
+    "Projects/Inbox/Канбан/02 Projects/Внедрение новых привычек.md",
+    "Cash/ii-pokazal-pravilnuyu-ekranizaciyu-cherepashek-nindzya-s-krasivoy-eypril-onil-104460.webp",
+    "Excalidraw",
+    "Cash/Pasted image 20240929204854.png",
+    "Projects/Obsidian/Статьи/освоено",
+    "Projects/Inbox",
+    "Projects/Obsidian/Статьи",
+    "Projects/Obsidian",
+    "Cash/ZeNPMHkqMgrJpJOWAxW9ZGMhuy6UDDgfDy6W-9OEyYeeQZmPD-WvkcoKv83nkP3BHqjSuFP6MIRk5ZNdeu_jQ4XSOnQN7oYrrGHHx5ZVPVQzAG76pR39v0r_Mt4WcPk3HhEcnOlCqNb8_RlqYKcPEO6tcp2Xa7Q1IoPyWjz_J-T0w4yDiemirBsFwFKwNywFoeLOvWUtjk-7vNcsJPGOdoj.webp",
+    "Cash/women-model-cosplay-shirogane-sama-long-hair-hd-wallpaper-preview.jpg",
+    "Cash/Исп/Pasted image 20240929173403.png",
+    "Cash/Исп/Pasted image 20240929172300.png",
+    "Cash/Исп/Pasted image 20240929170849.png",
+    "Cash/Pasted image 20240929172159.png",
+    "Cash/Pasted image 20240929172148.png",
+    "Cash/Исп/Договор+приложение.pdf",
+    "Cash/Исп",
+    "test",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "Без названия 3.canvas",
+    "Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

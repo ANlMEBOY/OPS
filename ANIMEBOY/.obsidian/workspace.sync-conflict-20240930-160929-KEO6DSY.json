@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "db1dcc08ffe04a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e5fa4303318f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9036a20d14e4d6da",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "488215263f0c7270",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14167ecc16abc2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d59347efb5c5d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda8245374cdae7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a3a4d03e4222745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "телефо",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37dc9695a7963839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad7b29dca4c979a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "7e6db1b1bad128ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c68290b92448e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb823fd7df931881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b7437a2ed6922b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cac8349dfd1cce89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3f27742c275e4a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b30b81810179d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b1d6fe353e1528",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f950cd1bf5b2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Пространства": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false,
+      "switcher:Меню быстрого перехода": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "488215263f0c7270",
+  "lastOpenFiles": [
+    "Без названия",
+    "Без названия 1",
+    "Projects/Job/Закупки.md",
+    "Projects/РМТ/EVE/Доступы.md",
+    "Projects/Job/Финансы/Снять сервер с отмены в Myloc.md",
+    "Projects/Job/Финансы/Скидки.md",
+    "Projects/Job/RPD.md",
+    "Projects/Job/Upgrade Downgrade/Сверка IP.md",
+    "Projects/Inbox/Канбан/02 Projects/Внедрение новых привычек.md",
+    "Projects/Job/ISP Manager.md",
+    "Projects/Inbox/00 Точки роста.md",
+    "Projects/Inbox/Канбан/00 Notes/00 Входящие.md",
+    "Projects/Inbox/Канбан/Вещи к сбору.md",
+    "Projects/Job/Аукционные серверы.md",
+    "Projects/Job/Финансы/Обещанный платеж.md",
+    "Projects/Job/Создание нового тарифа.md",
+    "Projects/Job/Верификация.md",
+    "Projects/Job/Upgrade Downgrade/Переход на другой тариф VPS.md",
+    "Projects/Inbox/Тренажерный зал.md",
+    "Projects/Job/Список подсетей.md",
+    "Projects/Job/AntiDDos.md",
+    "Projects/Job/Upgrade Downgrade/Upgrade Hetzner.md",
+    "Projects/РМТ/EVE/Фиты.md",
+    "Projects/Job/Переход на другой тариф.md",
+    "Projects/Job/Финансы/Вопросы по финансам.md",
+    "Projects/Inbox/Канбан/00 Notes/00 to-do.md",
+    "Projects/Job/Как восстановить сервер ФИОРД.md",
+    "Projects/РМТ/EVE",
+    "Projects/РМТ/Albion",
+    "Projects/РМТ",
+    "Projects/Obsidian/Статьи/освоено",
+    "Projects/Obsidian/Статьи",
+    "Projects/Obsidian",
+    "Projects/Job/Финансы",
+    "Projects/Job/Активации серверов",
+    "Projects/Job/Upgrade Downgrade",
+    "Cash/Исп/Pasted image 20240920162609.png",
+    "План развития.canvas",
+    "Cash/Исп/Pasted image 20240929173403.png",
+    "Cash/Исп/Pasted image 20240929170849.png",
+    "Cash/Pasted image 20240929204854.png",
+    "Cash/Исп/Pasted image 20240929170754.png",
+    "Cash/Исп/Pasted image 20240923132500.png",
+    "Cash/Pasted image 20240929215331.png",
+    "00 Homepage.canvas",
+    "Cash/Исп/Pasted image 20240923132529.png",
+    "Cash/Исп/Pasted image 20240919100129.png",
+    "Cash/Исп/Pasted image 20240929172300.png",
+    "Домашняя страница/00 Homepage.canvas",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "Без названия 3.canvas",
+    "Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}

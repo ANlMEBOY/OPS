@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"44eaa8f4d9432257","type":"file","file":"Путь к цели/Поздние переселенцы.md","x":-1660,"y":-680,"width":250,"height":105,"color":"3"},
+		{"id":"86bc0c89d78f4504","type":"text","text":"Стать junior разработчиком\n","x":-1300,"y":-931,"width":250,"height":60},
+		{"id":"dc868a9390856d2f","type":"text","text":"Стать Middle разработчиком\n","x":-980,"y":-931,"width":250,"height":60},
+		{"id":"50128195b2120b97","type":"text","text":"Стать Senior IT разработчиком\n","x":-630,"y":-931,"width":250,"height":60},
+		{"id":"145f1562687a3b63","type":"text","text":"Переезд в германию","x":-980,"y":-457,"width":250,"height":60},
+		{"id":"7876531a0ceab303","type":"text","text":"Получить безвиз","x":-620,"y":-457,"width":250,"height":60},
+		{"id":"720fb42e767ae233","type":"text","text":"Выучить немецкий B1\n- [ ] Пройти курс полиглота\n- [ ] Подумать что дальше","x":-1300,"y":-502,"width":250,"height":150},
+		{"id":"2970bf4d5e3eace0","type":"text","text":"Жить за рубежом\nБыть богатым, здоровым, счастливым.\nИметь свое дело\nСемья.","x":-100,"y":-752,"width":345,"height":250},
+		{"id":"8fd36982efc4a36e","type":"text","text":"Разработка","x":-300,"y":-1200,"width":250,"height":60},
+		{"id":"24e8752f57de1467","type":"text","text":"РОР","x":-300,"y":-1120,"width":250,"height":60},
+		{"id":"db1a4aaa0f95fa6b","type":"text","text":"Менеджмент","x":-300,"y":-1040,"width":250,"height":60},
+		{"id":"1cb3e8335c3f9e27","type":"text","text":"Выучить английский b1","x":-1290,"y":-120,"width":240,"height":60},
+		{"id":"cd7ce3df83de4afd","type":"text","text":"Выучить английский с1","x":-920,"y":-115,"width":235,"height":50},
+		{"id":"37610e814ebfd7bf","type":"file","file":"Путь к цели/Английский А1.md","x":-1660,"y":-120,"width":250,"height":80,"color":"3"},
+		{"id":"16b63b10a9d90ccc","type":"file","file":"Путь к цели/Аусбилдинг.md","x":-1660,"y":-352,"width":250,"height":172,"color":"3"},
+		{"id":"b9cde12602c5f735","type":"file","file":"Путь к цели/Стэки.md","x":-1660,"y":-960,"width":250,"height":160,"color":"3"}
+	],
+	"edges":[
+		{"id":"db4ecad9b5df7271","fromNode":"145f1562687a3b63","fromSide":"right","toNode":"7876531a0ceab303","toSide":"left"},
+		{"id":"3e60fcb925d89d54","fromNode":"720fb42e767ae233","fromSide":"right","toNode":"145f1562687a3b63","toSide":"left"},
+		{"id":"aab09a7da39e03e9","fromNode":"44eaa8f4d9432257","fromSide":"right","toNode":"145f1562687a3b63","toSide":"top"},
+		{"id":"c8190a25f3004c1d","fromNode":"16b63b10a9d90ccc","fromSide":"right","toNode":"145f1562687a3b63","toSide":"bottom"},
+		{"id":"186181d362dfd2db","fromNode":"7876531a0ceab303","fromSide":"right","toNode":"2970bf4d5e3eace0","toSide":"left"},
+		{"id":"fa23e39aca6db20f","fromNode":"50128195b2120b97","fromSide":"right","toNode":"2970bf4d5e3eace0","toSide":"left"},
+		{"id":"702762f5e9dda004","fromNode":"b9cde12602c5f735","fromSide":"right","toNode":"86bc0c89d78f4504","toSide":"left"},
+		{"id":"99c5460bd6b6dff1","fromNode":"86bc0c89d78f4504","fromSide":"right","toNode":"dc868a9390856d2f","toSide":"left"},
+		{"id":"2b4760d4e042d0dd","fromNode":"dc868a9390856d2f","fromSide":"right","toNode":"50128195b2120b97","toSide":"left"},
+		{"id":"23bfdbbfa1e3aee6","fromNode":"50128195b2120b97","fromSide":"top","toNode":"db1a4aaa0f95fa6b","toSide":"left"},
+		{"id":"52455d29f05697eb","fromNode":"50128195b2120b97","fromSide":"top","toNode":"24e8752f57de1467","toSide":"left"},
+		{"id":"8cb5ef5cba15a528","fromNode":"50128195b2120b97","fromSide":"top","toNode":"8fd36982efc4a36e","toSide":"left"},
+		{"id":"dfc4ab74db9a20e5","fromNode":"cd7ce3df83de4afd","fromSide":"right","toNode":"2970bf4d5e3eace0","toSide":"bottom"},
+		{"id":"e086da1f70b057b6","fromNode":"1cb3e8335c3f9e27","fromSide":"right","toNode":"cd7ce3df83de4afd","toSide":"left"},
+		{"id":"ab24a85f21d21562","fromNode":"37610e814ebfd7bf","fromSide":"right","toNode":"1cb3e8335c3f9e27","toSide":"left"}
+	]
+}

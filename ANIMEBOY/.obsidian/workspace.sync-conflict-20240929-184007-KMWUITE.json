@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "db1dcc08ffe04a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa89d50bea73f71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5c80f47a7cc973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New/Projects/Obsidian.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14167ecc16abc2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d59347efb5c5d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda8245374cdae7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a3a4d03e4222745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "закупки",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37dc9695a7963839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad7b29dca4c979a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "7e6db1b1bad128ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c68290b92448e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb823fd7df931881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New/Projects/Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b7437a2ed6922b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "New/Projects/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cac8349dfd1cce89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f27742c275e4a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New/Projects/Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "b30b81810179d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b1d6fe353e1528",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f950cd1bf5b2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Пространства": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Меню быстрого перехода": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "be5c80f47a7cc973",
+  "lastOpenFiles": [
+    "~syncthing~Безымянная Kanban-доска.md.tmp",
+    "data Viev/хер моржовый.md",
+    "data Viev/Без названия.md",
+    "софт.md",
+    "New/Projects/Job/Финансы/Возврат криптовалюты.md",
+    "Рецепты/Рецепты.md",
+    "Самоанализ.md",
+    "Покупка ноутбука.md",
+    "Безымянная Kanban-доска.md",
+    "база.md",
+    "Анекдоты.md",
+    "New/Projects/Obsidian.md",
+    "New/Projects/00 Точки роста.md",
+    "New/home/00 homepage.md",
+    "Канбан/00 Notes/00 to-do.md",
+    "New/Projects/Job/00 Доступы.md",
+    "New/Projects/Job/Закупки 1.md",
+    "Канбан/00 Notes/00 Входящие.md",
+    "Рецепты/Говядина.md",
+    "Рецепты/Гуляш.sync-conflict-20240921-014901-KEO6DSY.md",
+    "Рецепты/Гуляш.md",
+    "Рецепты/Компоты.md",
+    "New/Projects/Job/Составить договор на ИП.md",
+    "New/Projects/Job/Задачи Job.md",
+    "New/Projects/Job/Новые требования ДЦ для IP.md",
+    "New/Projects/Job/Контент для взрослых, DMCA, Как рассматриваем жалобы, анонимная регистрация, платежи в криптовалюте, пробная версия услуг, вычислительные мощности CLOUD..md",
+    "New/Cash/Pasted image 20240920162609.png",
+    "New/Cash/women-model-cosplay-shirogane-sama-long-hair-hd-wallpaper-preview.jpg",
+    "New/Cash/Pasted image 20240923132529.png",
+    "New/Cash/Pasted image 20240919100129.png",
+    "New/Cash/Договор+приложение.pdf",
+    "New/Cash/Pasted image 20240923132549.png",
+    "~syncthing~база.md.tmp",
+    "data Viev",
+    "New/Cash/Pasted image 20240923132500.png",
+    "книги",
+    "~WRL0001.tmp",
+    "~WRD0000.tmp",
+    "~$иложение.doc",
+    "~$оговор.doc",
+    "Приложение.doc",
+    "Договор.doc",
+    "Cash/ZeNPMHkqMgrJpJOWAxW9ZGMhuy6UDDgfDy6W-9OEyYeeQZmPD-WvkcoKv83nkP3BHqjSuFP6MIRk5ZNdeu_jQ4XSOnQN7oYrrGHHx5ZVPVQzAG76pR39v0r_Mt4WcPk3HhEcnOlCqNb8_RlqYKcPEO6tcp2Xa7Q1IoPyWjz_J-T0w4yDiemirBsFwFKwNywFoeLOvWUtjk-7vNcsJPGOdoj.webp",
+    "ii-pokazal-pravilnuyu-ekranizaciyu-cherepashek-nindzya-s-krasivoy-eypril-onil-104460.webp",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "Без названия 3.canvas",
+    "Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

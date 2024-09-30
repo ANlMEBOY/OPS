@@ -1,0 +1,338 @@
+{
+  "workspaces": {
+    "Job": {
+      "main": {
+        "id": "db1dcc08ffe04a94",
+        "type": "split",
+        "children": [
+          {
+            "id": "3b43e6b83082d338",
+            "type": "split",
+            "children": [
+              {
+                "id": "90190ac0bd232d9d",
+                "type": "split",
+                "dimension": 72.41134751773049,
+                "children": [
+                  {
+                    "id": "0df9dea6c561f8c6",
+                    "type": "tabs",
+                    "dimension": 59.09482758620689,
+                    "children": [
+                      {
+                        "id": "6fe1b6e1a5295e1f",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "IPSERVER.SU - выделенные серверы, виртуальные серверы, vps, впс, хостинг серверов.md",
+                            "mode": "preview",
+                            "source": true
+                          }
+                        }
+                      },
+                      {
+                        "id": "ab3a4255f492e643",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "New/Projects/Job/00 Доступы.md",
+                            "mode": "preview",
+                            "source": true
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "05018e46226ff47d",
+                    "type": "tabs",
+                    "dimension": 16.982758620689655,
+                    "children": [
+                      {
+                        "id": "21b15fdd7da0c0a8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Канбан/00 Notes/00 Входящие.md",
+                            "mode": "source",
+                            "source": true
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "41879ae58db2547a",
+                    "type": "tabs",
+                    "dimension": 23.922413793103445,
+                    "children": [
+                      {
+                        "id": "91336e629ee3dcb1",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Канбан/00 Notes/00 to-do.md",
+                            "mode": "preview",
+                            "source": true
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "db70a50277def21d",
+                "type": "split",
+                "dimension": 27.588652482269502,
+                "children": [
+                  {
+                    "id": "7393b6f1897a0553",
+                    "type": "tabs",
+                    "dimension": 82.45689655172413,
+                    "children": [
+                      {
+                        "id": "7f8be48e945f4ec0",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "Задачи Job.md",
+                            "kanbanViewState": {
+                              "kanban-plugin": "board",
+                              "list-collapse": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "897858b608c3e944",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "Закупки.md",
+                            "kanbanViewState": {
+                              "kanban-plugin": "board",
+                              "list-collapse": [
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false,
+                                false
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "dec9cb2c57d2e61f",
+                    "type": "tabs",
+                    "dimension": 17.54310344827586,
+                    "children": [
+                      {
+                        "id": "0becb7afdde103b0",
+                        "type": "leaf",
+                        "state": {
+                          "type": "graph",
+                          "state": {}
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "14167ecc16abc2c9",
+        "type": "split",
+        "children": [
+          {
+            "id": "97d59347efb5c5d7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bda8245374cdae7e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8a3a4d03e4222745",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "выдача",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "37dc9695a7963839",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad7b29dca4c979a8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 352.5
+      },
+      "right": {
+        "id": "7e6db1b1bad128ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "91c68290b92448e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb823fd7df931881",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Задачи Job.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "57b7437a2ed6922b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Задачи Job.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cac8349dfd1cce89",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3f27742c275e4a12",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Задачи Job.md"
+                  }
+                }
+              },
+              {
+                "id": "b30b81810179d3fb",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "32b1d6fe353e1528",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5f950cd1bf5b2d6a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 439.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Пространства": false,
+          "obsidian-kanban:Создать новую доску": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "audio-recorder:Начать/остановить запись": false,
+          "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+          "meld-encrypt:New encrypted note": false,
+          "meld-encrypt:Convert to or from an Encrypted note": false,
+          "meld-encrypt:Encrypt/Decrypt": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "command-palette:Открыть палитру команд": false,
+          "templates:Вставить шаблон": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "switcher:Меню быстрого перехода": false,
+          "homepage:Open homepage": false
+        }
+      },
+      "active": "7f8be48e945f4ec0",
+      "mtime": "2024-09-26T15:45:33+03:00"
+    }
+  },
+  "active": "Job"
+}

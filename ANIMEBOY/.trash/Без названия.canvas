@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"30726bc97c4259a3","x":-920,"y":-460,"width":400,"height":400,"type":"file","file":"Канбан/00 Notes/Контент.md"},
+		{"id":"5a1c51e7b80a437f","x":-100,"y":-620,"width":400,"height":400,"type":"file","file":"Канбан/00 Notes/Волосы.md"},
+		{"id":"f047b575e626b966","x":-180,"y":0,"width":402,"height":400,"type":"file","file":"Канбан/00 Notes/Повысь заработок.md"},
+		{"id":"a109709aff584e3c","x":640,"y":-260,"width":400,"height":400,"type":"file","file":"Канбан/00 Notes/Растяжка и упражнения для поясницы.md"}
+	],
+	"edges":[
+		{"id":"88915387c10b2091","fromNode":"30726bc97c4259a3","fromSide":"right","toNode":"5a1c51e7b80a437f","toSide":"left"},
+		{"id":"4318e87528166e16","fromNode":"5a1c51e7b80a437f","fromSide":"bottom","toNode":"a109709aff584e3c","toSide":"top"},
+		{"id":"b3f52d4633e70dd6","fromNode":"30726bc97c4259a3","fromSide":"bottom","toNode":"f047b575e626b966","toSide":"top"},
+		{"id":"a54568ccd7a5d607","fromNode":"f047b575e626b966","fromSide":"right","toNode":"a109709aff584e3c","toSide":"left"}
+	]
+}

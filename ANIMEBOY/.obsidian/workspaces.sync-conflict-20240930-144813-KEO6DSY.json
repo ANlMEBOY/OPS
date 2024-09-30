@@ -1,0 +1,449 @@
+{
+  "workspaces": {
+    "3": {
+      "main": {
+        "id": "db1dcc08ffe04a94",
+        "type": "split",
+        "children": [
+          {
+            "id": "da6921c36771aaae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4d7b95d886bdadc9",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "14167ecc16abc2c9",
+        "type": "split",
+        "children": [
+          {
+            "id": "97d59347efb5c5d7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8a3a4d03e4222745",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "76532611dfb6885b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4cb2cf1836b42b94",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f0170d0752aff66a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "077074c91d7c3ba8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "53c970d67300c269",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccf9968b8cee5868",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bda8245374cdae7e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "7e6db1b1bad128ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "91c68290b92448e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb823fd7df931881",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "57b7437a2ed6922b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cac8349dfd1cce89",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3f27742c275e4a12",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md"
+                  }
+                }
+              },
+              {
+                "id": "b30b81810179d3fb",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5f950cd1bf5b2d6a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "32b1d6fe353e1528",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 404.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "graph:Граф": false,
+          "workspaces:Пространства": false,
+          "audio-recorder:Начать/остановить запись": false
+        }
+      },
+      "active": "4d7b95d886bdadc9",
+      "mtime": "2024-09-16T02:06:11+03:00"
+    },
+    "123": {
+      "main": {
+        "id": "db1dcc08ffe04a94",
+        "type": "split",
+        "children": [
+          {
+            "id": "da6921c36771aaae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4d7b95d886bdadc9",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "14167ecc16abc2c9",
+        "type": "split",
+        "children": [
+          {
+            "id": "97d59347efb5c5d7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8a3a4d03e4222745",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "76532611dfb6885b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4cb2cf1836b42b94",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f0170d0752aff66a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "077074c91d7c3ba8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "53c970d67300c269",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccf9968b8cee5868",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bda8245374cdae7e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "7e6db1b1bad128ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "91c68290b92448e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb823fd7df931881",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "57b7437a2ed6922b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cac8349dfd1cce89",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "3f27742c275e4a12",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Job/Безымянная Kanban-доска 1.md"
+                  }
+                }
+              },
+              {
+                "id": "b30b81810179d3fb",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5f950cd1bf5b2d6a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "32b1d6fe353e1528",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 404.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "graph:Граф": false,
+          "workspaces:Пространства": false,
+          "audio-recorder:Начать/остановить запись": false
+        }
+      },
+      "active": "4d7b95d886bdadc9",
+      "mtime": "2024-09-16T02:06:07+03:00"
+    }
+  },
+  "active": "123"
+}

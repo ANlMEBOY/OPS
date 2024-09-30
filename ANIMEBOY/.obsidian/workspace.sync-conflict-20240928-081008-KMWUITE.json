@@ -1,0 +1,384 @@
+{
+  "main": {
+    "id": "db1dcc08ffe04a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b43e6b83082d338",
+        "type": "split",
+        "children": [
+          {
+            "id": "90190ac0bd232d9d",
+            "type": "split",
+            "dimension": 72.41134751773049,
+            "children": [
+              {
+                "id": "0df9dea6c561f8c6",
+                "type": "tabs",
+                "dimension": 39.64005537609599,
+                "children": [
+                  {
+                    "id": "ab3a4255f492e643",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "New/Projects/Job/00 Доступы.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "ba97b71267ca47aa",
+                "type": "tabs",
+                "dimension": 42.73188740193816,
+                "children": [
+                  {
+                    "id": "25e9f91d24e36c0c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "база.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "44d6cc12bd9a7c3c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "база.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "f2f6405de66c0eca",
+                "type": "tabs",
+                "dimension": 17.62805722196585,
+                "children": [
+                  {
+                    "id": "7c2d4497b528170e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "db70a50277def21d",
+            "type": "split",
+            "dimension": 27.588652482269502,
+            "children": [
+              {
+                "id": "7393b6f1897a0553",
+                "type": "tabs",
+                "dimension": 82.10332103321034,
+                "children": [
+                  {
+                    "id": "7f8be48e945f4ec0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "New/Projects/Job/Задачи Job.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "897858b608c3e944",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "New/Projects/Job/Закупки 1.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "dec9cb2c57d2e61f",
+                "type": "tabs",
+                "dimension": 17.89667896678967,
+                "children": [
+                  {
+                    "id": "0becb7afdde103b0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14167ecc16abc2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d59347efb5c5d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda8245374cdae7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a3a4d03e4222745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "договор",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37dc9695a7963839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad7b29dca4c979a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "7e6db1b1bad128ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c68290b92448e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb823fd7df931881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New/Projects/Job/00 Доступы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b7437a2ed6922b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "New/Projects/Job/00 Доступы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cac8349dfd1cce89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f27742c275e4a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New/Projects/Job/00 Доступы.md"
+              }
+            }
+          },
+          {
+            "id": "b30b81810179d3fb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b1d6fe353e1528",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f950cd1bf5b2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Пространства": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Меню быстрого перехода": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "ab3a4255f492e643",
+  "lastOpenFiles": [
+    "книги/хер моржовый.md",
+    "data Viev/хер моржовый.md",
+    "data Viev/Без названия.md",
+    "data Viev",
+    "база.md",
+    "New/Projects/Job/Договоры.md",
+    "New/Cash/Договор+приложение.pdf",
+    "книги/Без названия.md",
+    "Канбан/00 Notes/00 to-do.md",
+    "New/Projects/Немецкий язык.md",
+    "New/Projects/Job/00 Доступы.md",
+    "New/Cash/Pasted image 20240923132500.png",
+    "New/Cash/Pasted image 20240923132529.png",
+    "New/Projects/Job/Закупки 1.md",
+    "New/Projects/Obsidian.md",
+    "книги",
+    "New/Projects/Job/Задачи Job.md",
+    "New/Projects/Job/замедление youtube.md",
+    "New/Projects/Job/Контент для взрослых, DMCA, Как рассматриваем жалобы, анонимная регистрация, платежи в криптовалюте, пробная версия услуг, вычислительные мощности CLOUD..md",
+    "New/Projects/Job/IPSERVER.SU - выделенные серверы, виртуальные серверы, vps, впс, хостинг серверов 1.md",
+    "New/Cash/tumblr_4900b72be6de7d85569ddfad3989a3e6_5a6778be_1280.jpg.md",
+    "New/Cash/Pasted image 20240923132549.png",
+    "New/Projects/Job/Активации серверов/Активация серверов.md",
+    "New/Projects/Job/Сделать утром.md",
+    "New/Projects/Job/Переход на другой тариф.md",
+    "~WRL0001.tmp",
+    "~WRD0000.tmp",
+    "~$иложение.doc",
+    "Канбан/00 Notes/00 Входящие.md",
+    "Рецепты/Компоты.md",
+    "New/Projects/Job/00.Job Kanban.md",
+    "Канбан/Вещи к сбору.md",
+    "New/Projects/Job/Составить договор на ИП.md",
+    "New/Projects/Job/Финансы/Оплата с баланса ЛК.md",
+    "Рецепты/Рецепты.md",
+    "~$оговор.doc",
+    "New/Cash/Pasted image 20240920162609.png",
+    "Приложение.doc",
+    "Договор.doc",
+    "~syncthing~Договор.doc.tmp",
+    "New/Cash/Pasted image 20240919100129.png",
+    "New/Cash/women-model-cosplay-shirogane-sama-long-hair-hd-wallpaper-preview.jpg",
+    "Cash/ZeNPMHkqMgrJpJOWAxW9ZGMhuy6UDDgfDy6W-9OEyYeeQZmPD-WvkcoKv83nkP3BHqjSuFP6MIRk5ZNdeu_jQ4XSOnQN7oYrrGHHx5ZVPVQzAG76pR39v0r_Mt4WcPk3HhEcnOlCqNb8_RlqYKcPEO6tcp2Xa7Q1IoPyWjz_J-T0w4yDiemirBsFwFKwNywFoeLOvWUtjk-7vNcsJPGOdoj.webp",
+    "ii-pokazal-pravilnuyu-ekranizaciyu-cherepashek-nindzya-s-krasivoy-eypril-onil-104460.webp",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "Без названия 3.canvas",
+    "Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
